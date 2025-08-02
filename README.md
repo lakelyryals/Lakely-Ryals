@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lake Ryals
+# 👋 Hello, I'm Lakely Ryals
 I'm a data science student passionate about machine learning, data visualization, and uncovering insights from real-world datasets.
 
 🔧 Tools: Python, R, SQL, Scikit-Learn, Matplotlib, Pandas  
